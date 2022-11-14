@@ -10,5 +10,4 @@ A full stack web app to track your job search using MongoDB, Express, React and 
     - `JWT_SECRET`
     - `JWT_LIFETIME`
 - Run: `npm start`
-
 - Preview: http://localhost:3000/ 
