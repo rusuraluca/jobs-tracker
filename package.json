@@ -1,0 +1,28 @@
+{
+  "name": "jobs-application-tracker",
+  "version": "1.0.0",
+  "description": "A full stack web app to track your job search using MongoDB, Express, React and Node.js (MERN Stack).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusuraluca/jobs-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusuraluca/jobs-tracker/issues"
+  },
+  "homepage": "https://github.com/rusuraluca/jobs-tracker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
